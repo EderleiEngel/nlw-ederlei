@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/preview" alt="demostração do prejeto" width="100>
+  <img src=".github/preview.png" alt="demostração do prejeto" width="100>
 </p>
 
 ## 🖥️ Projeto
