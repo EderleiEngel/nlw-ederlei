@@ -3,7 +3,7 @@
 </p>
 
 ## 🖥️ Projeto
-Esse é um projeto é um cápsula do tempo para exibir memórias em uma linha do tempo
+Esse é um projeto é uma cápsula do tempo para exibir memórias em uma linha do tempo
 
 ## 🚀 Tcnologias
 Esse projeto foi desenvolvido a NLW da Rocketsead com as seguintes tecnologias:
